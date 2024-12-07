@@ -5,8 +5,10 @@ This is my progress tracker of transitioning myself to skilled python guy.(Inter
 ## Section: Intermediate Revision/Perfecting
 
 ## Day 1: Webscraping With Python(Beautiful Soup)
-**Date:** 2024-12-04
+**Date:** 2024-12-07
 
 - [x] Inspect Your Data Source
-- [x] Scrape HTML Content From A Page
-- [x] Parse HTML Code With Beautiful Soup 
+- [x] Scraping HTML Content From A Page
+- [x] Parsing HTML Code With Beautiful Soup
+- [ ] Follow the bs4 docs
+- [ ] Try to scrape a real web page
